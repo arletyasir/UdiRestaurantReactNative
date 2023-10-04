@@ -1,0 +1,42 @@
+{
+  "expo": {
+    "name": "google-signin",
+    "slug": "google-signin",
+    "plugins": ["@react-native-google-signin/google-signin","expo-location"],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/inicio2.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#C00000"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "config": {
+        "usesNonExemptEncryption": false
+      }
+    },
+    "android": {
+      "googleServicesFile": "./google-services.json",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.luciano22.googlesignin"
+    },
+
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "a6159430-4f5b-4d29-a8cb-155500bc045d"
+      }
+    }
+  }
+}

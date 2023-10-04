@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1037067241397",
+    "project_id": "coastal-set-387101",
+    "storage_bucket": "coastal-set-387101.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037067241397:android:ac6cad07e7b8013a1ffbfc",
+        "android_client_info": {
+          "package_name": "com.luciano22.googlesignin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1037067241397-0ce7eq0abrkcc8s2a8bh58jdnqjjj9vk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.luciano22.googlesignin",
+            "certificate_hash": "f518874e8a2c17a69f39f0d456ca4cb16035fa0b"
+          }
+        },
+        {
+          "client_id": "1037067241397-4nomdlph3luad3ornujtegte1aj8cefc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.luciano22.googlesignin",
+            "certificate_hash": "9bc12be42d2e6e1c9018706723c486dd717dc168"
+          }
+        },
+        {
+          "client_id": "1037067241397-e4j8irmmg6mjsq90v7uacd9mi2f52t1p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZXAczFB1nBUKWmoZKfqN7oB3UZOGnQWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1037067241397-e4j8irmmg6mjsq90v7uacd9mi2f52t1p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
