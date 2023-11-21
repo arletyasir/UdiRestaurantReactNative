@@ -7,7 +7,7 @@ import { Ionicons } from '@expo/vector-icons';
 
 import Icon from 'react-native-vector-icons/FontAwesome';
 import { Colors } from '../colors';
-
+//console.log('commit');
 
 const calculateTimeDifference = (fechaMenu) => {
     const currentDate = new Date();
